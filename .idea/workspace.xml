@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d431387-67dc-477e-b634-c3a19eb8fbdc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\apache\LocalWareHouse" />
+        <option name="mavenHome" value="F:/apache/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="F:\apache\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="27HuwD5KgK2C1W4ge99BYsC98dU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Code/miniDubboOpen" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+    <property name="settings.editor.splitter.proportion" value="0.23975044" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.cooljson.client" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d431387-67dc-477e-b634-c3a19eb8fbdc" name="Default Changelist" comment="" />
+      <created>1648989568818</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648989568818</updated>
+      <workItem from="1648989572302" duration="3252000" />
+      <workItem from="1648993266899" duration="1443000" />
+      <workItem from="1648994907168" duration="4339000" />
+      <workItem from="1649047545105" duration="27198000" />
+      <workItem from="1649139530908" duration="7699000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="580" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1649077663763">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="580" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1549.831@0.0.1549.831" timestamp="1649077663763" />
+    <state x="505" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1649080470699">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="505" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1549.831@0.0.1549.831" timestamp="1649080470699" />
+    <state x="555" y="171" key="FileChooserDialogImpl" timestamp="1649074213094">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="555" y="171" key="FileChooserDialogImpl/0.0.1549.831@0.0.1549.831" timestamp="1649074213094" />
+    <state x="284" y="60" width="1137" height="710" key="SettingsEditor" timestamp="1648991538113">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="284" y="60" width="1137" height="710" key="SettingsEditor/0.0.1549.831@0.0.1549.831" timestamp="1648991538113" />
+    <state x="179" y="76" key="new project wizard" timestamp="1648990191210">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="179" y="76" key="new project wizard/0.0.1549.831@0.0.1549.831" timestamp="1648990191210" />
+    <state x="437" y="152" width="672" height="678" key="search.everywhere.popup" timestamp="1649075700239">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="437" y="152" width="672" height="678" key="search.everywhere.popup/0.0.1549.831@0.0.1549.831" timestamp="1649075700239" />
+  </component>
+</project>
